@@ -4,6 +4,6 @@ Terraform Registry: [Azure Terraform Modules](https://registry.terraform.io/name
 
 ## Modules 
 
-- [azurerm/resource](https://github.com/azurerm/terraform-azure-resources)
+- [azurerm/resources](https://github.com/azurerm/terraform-azure-resources)
 - [azurerm/locations](https://github.com/azurerm/terraform-azure-locations)
 - [azurerm/naming](https://github.com/azurerm/terraform-azure-naming)
